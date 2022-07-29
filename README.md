@@ -7,7 +7,7 @@
 I'm Ali Noshahi, .NET developer from Iran.
 I focused on developing Windows apps at most using UWP, WPF, and, WinUI.
 
-- 💡 Currently working on a few IoT projects and Winsta (Instgram Client for Windows)
+- 💡 Currently working on a few IoT projects and [Winsta](https://github.com/NGame1/Winsta11) (Instgram Client for Windows)
 - 📚 Learning ASP .NET, .NET MAUI, and, Blazor WASM
 
 ## 🛠️ Languages & Tools
