@@ -9,6 +9,7 @@ I focused on developing Windows apps at most using UWP, WPF, and, WinUI.
 
 - 💡 Currently working on a few IoT projects and [Winsta](https://github.com/NGame1/Winsta11) (Instgram Client for Windows)
 - 📚 Learning ASP .NET, .NET MAUI, and, Blazor WASM
+- 🔥 Personality: INTP
 
 ## 🛠️ Languages & Tools
 ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=for-the-badge&logo=visualstudio)
