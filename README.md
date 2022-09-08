@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg?style=for-the-badge&&logo=github)](https://github.com/hootanht)
+[![PRs Welcome](https://img.shields.io/badge/Title-Developer-orange.svg?style=for-the-badge&&logo=github)](https://github.com/NGame1)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=NGame1&style=for-the-badge&&labelColor=black&logo=github&label=PROFILE+VIEWS&color=green"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NGame1/NGame1?style=for-the-badge&logo=markdown&label=LAST+UPDATE&color=blue">
 <img alt="MSLove" src="https://img.shields.io/badge/Microsoft-%E2%99%A1-yellow?style=for-the-badge&logo=Microsoft"/>
