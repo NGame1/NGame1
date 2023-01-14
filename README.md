@@ -28,9 +28,11 @@ I focused on developing Windows apps at most using UWP, WPF, and, WinUI.
 ## ⚙️ GitHub Analytics
 <p align="center">
  <a href="https://github.com/NGame1">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGame1&layout=compact&theme=material-palenight&langs_count=12" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=NGame1&show_icons=true&include_all_commits=true&theme=material-palenight" />
-  
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGame1&langs_count=8&layout=compact&theme=material-palenight)
+
+  ![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NGame1?cardType=level&theme=material-palenight)
+
  </a>
   <!--<a>
     <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NGame1&layout=compact" alt="NGame1's WakaTime" />
