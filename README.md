@@ -4,7 +4,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/NGame1/NGame1?style=for-the-badge&logo=markdown&label=LAST+UPDATE&color=blue">
 <img alt="MSLove" src="https://img.shields.io/badge/Microsoft-%E2%99%A1-yellow?style=for-the-badge&logo=Microsoft"/>
 
-I'm Ali Noshahi, .NET developer from Iran.
+I'm Ali Noshahi, .NET developer.
 I focused on developing Windows apps at most using UWP, WPF, and, WinUI.
 
 - 💡 Currently working on a ASP .NET Core framework project and [Winsta](https://github.com/NGame1/Winsta11) (Instgram Client for Windows)
