@@ -26,18 +26,11 @@ I focused on developing Windows apps at most using UWP, WPF, and, WinUI.
 ![Blazor](https://img.shields.io/badge/-Blazor-blueviolet?style=for-the-badge&logo=blazor)
 
 ## ⚙️ GitHub Analytics
-<p align="center">
- <a href="https://github.com/NGame1">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NGame1&langs_count=8&layout=compact&theme=material-palenight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngame1&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="NGame1" /></p>
 
-  ![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/NGame1?cardType=level&theme=material-palenight)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngame1&show_icons=true&locale=en&theme=material-palenight" alt="NGame1" /></p>
 
- </a>
-  <!--<a>
-    <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=NGame1&layout=compact" alt="NGame1's WakaTime" />
-  </a>-->
-  <a>
-  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=NGame1&theme=material-palenight" alt="NGame1's Github Steak" />
-  </a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngame1&theme=material-palenight" alt="NGame1" /></p>
+
 </p>
